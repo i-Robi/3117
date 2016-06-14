@@ -765,12 +765,12 @@ th {
 @font-face {
   font-family: "Avenir";
   font-weight: 400;
-  src: url("../../fonts/AvenirLT45Book.eot") format("eot"), url("../../fonts/AvenirLT45Book.woff") format("woff"), url("../../fonts/AvenirLT45Book.ttf") format("truetype"), url("../../fonts/AvenirLT45Book.svg") format("svg");
+  src: url("../fonts/AvenirLT45Book.eot") format("eot"), url("../fonts/AvenirLT45Book.woff") format("woff"), url("../fonts/AvenirLT45Book.ttf") format("truetype"), url("../fonts/AvenirLT45Book.svg") format("svg");
 }
 @font-face {
   font-family: "Avenir";
   font-weight: 900;
-  src: url("../../fonts/AvenirLT95Black.eot") format("eot"), url("../../fonts/AvenirLT95Black.woff") format("woff"), url("../../fonts/AvenirLT95Black.ttf") format("truetype"), url("../../fonts/AvenirLT95Black.svg") format("svg");
+  src: url("../fonts/AvenirLT95Black.eot") format("eot"), url("../fonts/AvenirLT95Black.woff") format("woff"), url("../fonts/AvenirLT95Black.ttf") format("truetype"), url("../fonts/AvenirLT95Black.svg") format("svg");
 }
 /* ==========================================================================
 Typography
